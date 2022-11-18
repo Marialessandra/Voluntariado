@@ -3,8 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package voluntariado;
-
-import formularios.Login;
+import formularios.FrmLogin;
 import javax.swing.JFrame;
 
 /**
@@ -18,7 +17,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        JFrame Login = new Login();
+        JFrame Login = new FrmLogin();
         Login.setVisible(true);
     }
     
