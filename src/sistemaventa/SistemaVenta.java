@@ -2,24 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package voluntariado;
-
-import Vista.Login;
-import javax.swing.JFrame;
+package sistemaventa;
 
 /**
  *
- * @author jegar
+ * @author abiga
  */
-public class Main {
+public class SistemaVenta {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        JFrame Login = new Login();
-        Login.setVisible(true);
     }
     
 }
